@@ -44,7 +44,7 @@ metadata:
     nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
 spec:
   rules:
-  - host: landing.sarisalju.com
+  - host: s-landing.sarisalju.com
     http:
       paths:
       - backend:
